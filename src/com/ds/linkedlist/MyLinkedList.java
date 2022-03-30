@@ -87,6 +87,7 @@ class SingleList {
             } else { // 如果不止首元结点一个结点
                 head.next = head.next.next; // 让头节点指针域指向首元结点的下一结点
                 size--; // 链表结点数-1
+                return; // 返回值为void的方法用"return;"语句退出该方法，下面的语句不再执行
             }
         }
         Node tempNode = head; //让tempNode指针指向头节点
