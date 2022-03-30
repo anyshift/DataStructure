@@ -44,7 +44,7 @@ class SingleList {
     public void addAtTail(int val) {
         Node tempNode = head; // 让tempNode指向头结点
         while (tempNode.next != null) { // 只要tempNode没到链表尾部，tempNode.next就不为null
-            tempNode = tempNode.next; // 让tempNode一步步往后移动
+            tempNode = tempNode.next; // 让tempNode一步步往后移动，直到移动到尾部为止
         }
         Node newNode = new Node(val); // 生成新结点，结点数据域到值为待插入待值
         newNode.next = null; // 虽然不赋null值也会通过new Node(val)赋为null，但还是建议加上这句
