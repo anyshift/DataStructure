@@ -1,6 +1,6 @@
 package com.ds.linkedlist;
 
-class SingleList {
+public class SingleList {
     /**
      * 定义一个成员内部类Node，即结点。该类也可以写在外面
      * value - 存放的是结点的值
@@ -114,9 +114,7 @@ class SingleList {
         }
         return tempNode.value; // 执行完for循环，tempNode所指的就是要取的那个结点
     }
-}
 
-public class MyLinkedList {
     public static void main(String[] args) {
         SingleList sl = new SingleList();
         sl.addAtHead(1);

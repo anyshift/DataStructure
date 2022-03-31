@@ -9,7 +9,7 @@
 ---
 
 - [1、链表](src/com/ds/linkedlist)
-  - [单链表的增删取](src/com/ds/linkedlist/MyLinkedList.java)
+  - [单链表的增删取](src/com/ds/linkedlist/singleList.java)
   - coding...
 - [2、栈](src/com/ds/stack)
   - coding...
