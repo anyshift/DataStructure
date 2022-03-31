@@ -12,6 +12,7 @@
   - [单链表的增删取](src/com/ds/linkedlist/SingleList.java)
   - [环形链表 I](src/com/ds/linkedlist/cyclelist/CycleLinkedList_One.java)
   - [环形链表 II](src/com/ds/linkedlist/cyclelist/CycleLinkedList_Two.java)
+  - [双向链表](src/com/ds/linkedlist/doublylinkedlist/DoublyLinkedList.java)
   - coding...
 - [2、栈](src/com/ds/stack)
   - coding...
