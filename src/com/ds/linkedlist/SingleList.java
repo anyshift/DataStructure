@@ -82,13 +82,11 @@ public class SingleList {
         if (index == 0) { //如果要删除的是首元结点。注意：头节点没有索引下标，'0'是首元结点的位置
             if (size == 1) { // 如果只有首元结点一个结点
                 head.next = null; //头结点指针域置空
-                size--; // 链表结点数-1
-                return; // 返回值为void的方法用"return;"语句退出该方法，下面的语句不再执行
             } else { // 如果不止首元结点一个结点
                 head.next = head.next.next; // 让头节点指针域指向首元结点的下一结点
-                size--; // 链表结点数-1
-                return; // 返回值为void的方法用"return;"语句退出该方法，下面的语句不再执行
             }
+            size--; // 链表结点数-1
+            return; // 返回值为void的方法用"return;"语句退出该方法，下面的语句不再执行
         }
         Node tempNode = head; //让tempNode指针指向头节点
         for (int i = 0; i < index; i++) { //i应该循环到index的前一个位置，i=index时不执行方法体内语句
