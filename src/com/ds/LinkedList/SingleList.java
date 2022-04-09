@@ -1,4 +1,4 @@
-package com.ds.linkedlist;
+package com.ds.LinkedList;
 
 public class SingleList {
     /**
