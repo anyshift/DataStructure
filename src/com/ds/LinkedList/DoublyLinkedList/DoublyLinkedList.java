@@ -1,4 +1,4 @@
-package com.ds.linkedlist.doublylinkedlist;
+package com.ds.LinkedList.DoublyLinkedList;
 
 class Node {
     int value;
