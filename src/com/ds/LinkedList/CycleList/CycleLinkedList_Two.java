@@ -1,4 +1,4 @@
-package com.ds.linkedlist.cyclelist;
+package com.ds.LinkedList.CycleList;
 
 /**
  * https://leetcode-cn.com/leetbook/read/linked-list/jjhf6/
