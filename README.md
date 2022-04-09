@@ -8,22 +8,22 @@
 
 ---
 
-- [1、链表](src/com/ds/linkedlist)
-  - [单链表的增删取](src/com/ds/linkedlist/SingleList.java)
-  - [环形链表 I](src/com/ds/linkedlist/cyclelist/CycleLinkedList_One.java)
-  - [环形链表 II](src/com/ds/linkedlist/cyclelist/CycleLinkedList_Two.java)
-  - [双向链表](src/com/ds/linkedlist/doublylinkedlist/DoublyLinkedList.java)
-  - [反转链表](src/com/ds/linkedlist/reverselinkedlist/ReverseLinkedList.java)
+- [1、链表](src/com/ds/LinkedList)
+  - [单链表的增删取](src/com/ds/LinkedList/SingleList.java)
+  - [环形链表 I](src/com/ds/LinkedList/CycleList/CycleLinkedList_One.java)
+  - [环形链表 II](src/com/ds/LinkedList/CycleList/CycleLinkedList_Two.java)
+  - [双向链表](src/com/ds/LinkedList/DoublyLinkedList/DoublyLinkedList.java)
+  - [反转链表](src/com/ds/LinkedList/ReverseLinkedList/ReverseLinkedList.java)
   - coding...
-- [2、栈](src/com/ds/stack)
+- [2、栈](src/com/ds/Stack)
   - coding...
-- [3、队列](src/com/ds/queue)
+- [3、队列](src/com/ds/Queue)
     - coding...
-- [4、数组与字符串](src/com/ds/string)
+- [4、数组与字符串](src/com/ds/String)
     - coding...
-- [5、树](src/com/ds/tree)
+- [5、树](src/com/ds/Tree)
     - coding...
-- [6、查找](src/com/ds/search)
+- [6、查找](src/com/ds/Search)
     - coding...
-- [7、排序](src/com/ds/sort)
+- [7、排序](src/com/ds/Sort)
     - coding...
