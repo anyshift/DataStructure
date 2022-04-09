@@ -1,4 +1,4 @@
-package com.ds.linkedlist.reverselinkedlist;
+package com.ds.LinkedList.ReverseLinkedList;
 
 /**
  * https://leetcode-cn.com/leetbook/read/linked-list/f58sg/
